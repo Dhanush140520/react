@@ -29,3 +29,8 @@ function getComments(path) {
 }
 
 module.exports = getComments;
+
+
+egnrchguihegihiuhfsjkghegv
+rcwthu3h4htc 44
+hc
